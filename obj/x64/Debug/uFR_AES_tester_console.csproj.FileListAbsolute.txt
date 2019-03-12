@@ -1,0 +1,7 @@
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\bin\x64\Debug\uFR_AES_tester_console.exe.config
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\bin\x64\Debug\uFR_AES_tester_console.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\bin\x64\Debug\uFR_AES_tester_console.pdb
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\obj\x64\Debug\uFR_AES_tester_console.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\obj\x64\Debug\uFR_AES_tester_console.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\obj\x64\Debug\uFR_AES_tester_console.exe
+C:\Users\aleks\OneDrive\Desktop\VS PROJEKTI\uFR_AES_tester_console\uFR_AES_tester_console\obj\x64\Debug\uFR_AES_tester_console.pdb
